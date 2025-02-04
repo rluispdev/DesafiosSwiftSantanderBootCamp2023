@@ -2,8 +2,8 @@
  
  
 
+ 
 ## 👨‍💻 Student
-
 <p>
     <img 
       align=left 
@@ -17,4 +17,13 @@
     GitHub</a>&nbsp;|&nbsp;
      <a href="https://cursos.alura.com.br/user/rluisp"> Alura Profile</a>
 &nbsp;|&nbsp;
-    <a href="https://www.linke
+       <a href="https://www.dio.me/users/rluispdev">DIO</a>
+&nbsp;|&nbsp;      
+    <a href="https://www.linkedin.com/in/rafael-luis-gonzaga-b11634186/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/rluispdevs?igsh=cnoxenpmaHY1amE0&utm_source=qr">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
